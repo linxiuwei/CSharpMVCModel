@@ -1,0 +1,1 @@
+D:\develop\Project\VSProject\MVCNotepad\NotepadUI\bin\Debug\NotepadUI.exe.config
